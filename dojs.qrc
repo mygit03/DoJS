@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TransCal.js</file>
+    </qresource>
+</RCC>
