@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui script
+QT       += core gui script scripttools
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -19,8 +19,7 @@ HEADERS  += widget.h
 
 FORMS    += widget.ui
 
-DISTFILES += \
-    TransCal.js
+DISTFILES +=
 
 RESOURCES += \
     dojs.qrc
